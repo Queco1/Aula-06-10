@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">aula 6-10</string>
+    <string name="ano">Ano</string>
+    <string name="autor">Autor</string>
+    <string name="editora">Editora</string>
+    <string name="pre_o">Preço</string>
+    <string name="titulo_do_livro">Titulo do Livro</string>
+    <string name="preco">Preço</string>
+    <string name="salvar">Salvar</string>
+</resources>
